@@ -1,2 +1,2 @@
 # barbearia
-Criação de uma barbearia em React-Native 
+Criação de um app de barbearia em React-Native 
