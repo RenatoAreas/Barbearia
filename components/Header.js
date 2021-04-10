@@ -7,7 +7,7 @@ class Header extends React.Component {
         return (
             <Appbar.Header>
                 <Appbar.Content
-                    title="Restaurante Steakhouse"
+                    title="Barbearia Rio Banco"
                     subtitle="Seja bem vindo ao aplicativo"
                 />
             </Appbar.Header>
